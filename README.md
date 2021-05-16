@@ -11,7 +11,7 @@ This is a AWS Lambda Cron-job python code, to notify me as soon as my salary/bon
 2) Replace the credentials in credentials.json.dist
 3)
 ```bash
-cp credentials.json dist credentials.json
+cp credentials.json.dist credentials.json
 ```
 
 
