@@ -1,5 +1,5 @@
 ## Project Idea
-I used to have a cron job on my laptop that notifies me as soon as my bonuses are transferred into my bank account (the dates of the bonuses varies from month to month. It was distracting, both mentally and physically to go check my bank account every other hour) As I dove deep into the costs and perks of AWS, I found out that first million request of AWS Lambda  actually free. This led me to take my cron job to the clouds.
+I used to have a cron job on my laptop that notifies me as soon as my bonuses are transferred into my bank account (the dates of the bonuses varies from month to month. It was distracting, both mentally and physically to go check my bank account every other hour) As I dove deep into the costs and perks of AWS, I found out that first million request of AWS Lambda are actually free. This led me to take my cron job to the clouds.
 
 ## Overview
 This is a AWS Lambda Cron-job python code, to notify me as soon as my salary/bonuses are transfered into my bank account.
